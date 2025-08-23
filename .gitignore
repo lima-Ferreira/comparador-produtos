@@ -1,0 +1,20 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+
+# Dependências do VSCode
+.vscode/
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+
+# Backend
+backend/node_modules/
